@@ -224,4 +224,93 @@ n.	倡议; 新方案; 主动性; 积极性; 自发性; 掌握有利条件的能�
 emphasize	
 v.	强调; 重视; 着重; 使突出; 使明显; 重读，强调(词或短语); 加强…的语气;
 
+mechanism
+n. 机制；原理，途径；进程；机械装置；技巧
 
+navigation  导航
+
+glossary
+n. 术语（特殊用语）表；词汇表；专业词典
+
+concise
+adj. 简明的，简洁的
+
+construct
+v. 建造，修建（某物，尤指建筑物，公路，机器）；组成，创建；（按照数学规则）编制，绘制；形成（观念，理论）
+n. 构想，概念；编造，杜撰；（短语的）结构成分，结构体；建造物，构筑物
+
+set up 设置
+
+practicality
+英 [ˌpræktɪˈkæləti]  美 [ˌpræktɪˈkæləti] 
+n. 实用性，实际性；实际，实例
+
+asset
+n. 资产；优点；有用的东西；有利条件；财产；有价值的人或物
+
+guidelines
+n. 指导方针
+
+motion
+n. 动作；移动；手势；请求；意向；议案
+vi. 运动；打手势
+vt. 运动；向…打手势
+
+familiarize
+vt. 使熟悉
+
+modification
+n. 修改，修正；改变
+
+consult 
+vt. 查阅；商量；向…请教
+vi. 请教；商议；当顾问
+
+mockup
+n. 实物模型；假雷达
+adj. 模型的
+
+vibrant 
+adj. 充满生机的，生气勃勃的；鲜艳的；醒目的；洪亮的；强劲的；颤抖的，震动的
+
+palette 
+n. 调色板；颜料
+
+alternatively
+adv. 要不，或者；非此即彼；二者择一地；作为选择
+
+assemble
+vt. 集合，聚集；装配；收集
+vi. 集合，聚集
+
+hybrid
+n. 杂种，混血儿；混合物
+
+interfere
+vi. 干涉；妨碍；打扰
+vt. 冲突；介入
+
+bare
+adj. 空的；赤裸的，无遮蔽的
+vt. 露出，使赤裸
+
+informative
+adj. 提供有用信息的；教育性的
+
+consistent
+adj. 始终如一的，一致的；坚持的
+
+export
+n. 输出，出口；出口商品
+vi. 输出物资
+vt. 输出，出口
+
+property
+n. 性质，性能；财产；所有权
+
+manipulate
+vt. 操纵；操作；巧妙地处理；篡改
+
+alias
+adv. （罪犯或演员等）别名，化名；又称，也叫做
+n. （尤指罪犯所用的）化名；（文件、互联网地址等用的）别名；错误识别
