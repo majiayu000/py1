@@ -320,3 +320,65 @@ v.	证明; 证实; 论证; 说明; 表达; 表露; 表现; 显露; 示范; 演�
 
 roadmap  路线图
 
+sponsor 赞助
+
+
+transition
+n.	过渡; 转变; 变革; 变迁;
+
+agile
+adj.	(动作) 敏捷的，灵活的; (思维) 机敏的，机灵的;
+
+
+incrementally	
+网络	递增地; 逐渐地; 增加地; 渐进性的; 增量模式;
+
+user story
+用户描述   指在软件开发和项目管理中用日常语言或商务用语写成的句子
+
+
+prospective	
+adj.	有望的; 可能的; 预期的; 潜在的; 即将发生的; 行将来临的;
+
+exception	
+n.	一般情况以外的人(或事物); 例外; 规则的例外; 例外的事物;
+
+violation
+n.	违反，违法，违章，越轨，触犯法令; 侵犯；破坏; 违例，犯规;
+
+merchandise
+n.	商品; 货品; 相关商品; 指定商品;
+v.	推销; (运用广告等) 销售;
+
+unambiguously
+adv. 不含糊地；明白地；单意义地
+
+ambiguously
+英 [æmˈbɪɡjuəsli]  美 [æmˈbɪɡjuəsli] 
+adv. 含糊不清地
+
+plagiarize
+vi. 剽窃；抄袭
+vt. 剽窃；抄袭
+
+rigorous
+英 [ˈrɪɡərəs]  美 [ˈrɪɡərəs] 
+adj. 严格的，严厉的；严密的；严酷的
+
+institution
+n. 制度；建立；（社会或宗教等）公共机构；习俗
+
+revoke
+vt. 撤回，取消；废除
+vi. 有牌不跟
+n. 有牌不跟
+
+tribute
+n. 礼物；[税收] 贡物；颂词
+
+drum 鼓
+drum machine
+n.	电子鼓;
+
+overwhelmed
+adj. 被压倒的，被淹没的；受宠若惊的，不知所措的
