@@ -382,3 +382,28 @@ n.	电子鼓;
 
 overwhelmed
 adj. 被压倒的，被淹没的；受宠若惊的，不知所措的
+
+ironic 
+adj. 讽刺的；反话的
+
+badge
+n. 徽章；证章；标记
+vt. 授给…徽章
+
+inhumane
+adj. 残忍的；无人情味的
+
+
+alternative
+n.	可供选择的事物;
+
+semantic
+语义
+
+reinforce
+vt. 加强，加固；强化；补充
+vi. 求援；得到增援；给予更多的支持
+n. 加强；加固物；加固材料
+
+presentation
+n. 展示；描述，陈述；介绍；赠送
