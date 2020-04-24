@@ -650,6 +650,37 @@ precede	英[prɪˈsiːd]
 美[prɪˈsiːd]
 v.	在…之前发生(或出现); 先于; 走在…前面;
 
+expression	英[ɪkˈspreʃn]
+美[ɪkˈspreʃn]
+n.	表示; 表达; 表露; 表情; 神色; 词语; 措辞; 表达方式;
+
+
+optionally	
+adv.	随意地;
+
+
+evaluate	英[ɪˈvæljueɪt]
+美[ɪˈvæljueɪt]
+v.	估计; 评价; 评估;
+
+
+macro	英[ˈmækrəʊ]
+美[ˈmækroʊ]
+n.	宏指令;
+
+implicitly	英[ɪmˈplɪsɪtli]
+美[ɪmˈplɪsətli]
+adv.	暗中地；不明显地；含蓄地；蕴涵地; 无疑问地；无保留地；绝对地;
+
+synonymous
+英[sɪˈnɒnɪməs]
+美[sɪˈnɑːnɪməs]
+adj.	同义的; 等同于…的;
+
+contradict
+英[ˌkɒntrəˈdɪkt]
+美[ˌkɑːntrəˈdɪkt]
+v.	反驳; 驳斥; 批驳; 相抵触; 相矛盾; 相反;
 
 
 
