@@ -569,6 +569,87 @@ eliminate	英[ɪˈlɪmɪneɪt]
 美[ɪˈlɪmɪneɪt]
 v.	排除; 清除; 消除; (比赛中) 淘汰; 消灭，干掉(尤指敌人或对手);
 
+shrink	英[ʃrɪŋk]
+美[ʃrɪŋk]
+v.	(使) 缩水，收缩，缩小，皱缩; (使) 缩小，减少; 退缩; 畏缩;
+
+destructure  解构
+
+
+indices	英[ˈɪndɪsiːz]
+美[ˈɪndɪsiːz]
+[词典]	index 的复数形式之一;
+
+
+allocate	英[ˈæləkeɪt]
+美[ˈæləkeɪt]
+v.	拨…(给); 划…(归); 分配…(给);
+
+
+heap	英[hiːp]
+美[hiːp]
+n.	(凌乱的) 一堆; 许多; 大量; 破旧的汽车; 老爷车;
+v.	堆积(东西); 堆置; 在…上放很多(东西); 对(某人)大加赞扬(或批评等);
+
+
+concise	英[kənˈsaɪs]
+美[kənˈsaɪs]
+adj.	简明的; 简练的; 简洁的; 简略的; 简缩的;
+
+initially	英[ɪˈnɪʃəli]
+美[ɪˈnɪʃəli]
+adv.	开始; 最初; 起初;
+
+
+chunk	英[tʃʌŋk]
+美[tʃʌŋk]
+n.	厚块; 厚片; 大块; 相当大的量; 话语组成部分; 组块;
+
+compilation
+英[ˌkɒmpɪˈleɪʃn]
+美[ˌkɑːmpɪˈleɪʃn]
+n.	收集; 选编; 选辑; 编纂; 编著; 编写;
+
+pervasive	英[pəˈveɪsɪv]
+美[pərˈveɪsɪv]
+adj.	遍布的; 充斥各处的; 弥漫的;
+
+parentheses
+英[pəˈrɛnθɪsiːz]
+美[pəˈrɛnθəˌsiz]
+n.	插入语;
+[词典]	parenthesis的复数;
+
+concrete	英[ˈkɒŋkriːt]
+美[ˈkɑːŋkriːt]
+adj.	混凝土制的; 确实的，具体的(而非想象或猜测的); 有形的; 实在的;
+n.	混凝土;
+v.	用混凝土覆盖;
+
+
+casual	英[ˈkæʒuəl]
+美[ˈkæʒuəl]
+adj.	不经意的; 无忧无虑的; 漫不经心的; 不在乎的; 马虎的; 疏忽的; 非正式; 随便的;
+n.	便装; 便鞋; 临时工;
+
+
+conversation
+英[ˌkɒnvəˈseɪʃn]
+美[ˌkɑːnvərˈseɪʃn]
+n.	(非正式) 交谈，谈话;
+
+
+deliberate
+英[dɪˈlɪbərət , dɪˈlɪbəreɪt]
+美[dɪˈlɪbərət , dɪˈlɪbəreɪt]
+adj.	故意的; 蓄意的; 存心的; 不慌不忙的; 小心翼翼的; 从容不迫的;
+v.	仔细考虑; 深思熟虑; 反复思考;
+
+
+precede	英[prɪˈsiːd]
+美[prɪˈsiːd]
+v.	在…之前发生(或出现); 先于; 走在…前面;
+
 
 
 
