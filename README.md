@@ -736,5 +736,70 @@ n.	相反的情况(或事物); 后面; 背面; 反面; 倒挡;
 adj.	相反的; 反面的; 反向的; 背面的; 后面的;
 
 
+explicitly
+英[ɪksˈplɪsɪtli]
+美[ɪkˈsplɪsətli]
+adv.	明确地；明白地;
+
+
+comparatively
+英[kəmˈpærətɪvli]
+美[kəmˈpærətɪvli]
+adv.	比较上; 相对地;
+
+boilerplate
+英[ˈbɔɪləpleɪt]
+美[ˈbɔɪlərpleɪt]
+n.	(可供模仿的) 样板文件，文件范例;
+
+blob	英[blɒb]
+美[blɑːb]
+n.	(尤指液体的) 一点，一滴; (颜色的) 一小片，斑点;
+vt.	弄脏; 弄错;
+
+
+interact	英[ˌɪntərˈækt]
+美[ˌɪntərˈækt]
+v.	交流; 沟通; 合作; 相互影响; 相互作用;
+
+
+capacity	英[kəˈpæsəti]
+美[kəˈpæsəti]
+n.	容量; 容积; 容纳能力; 领悟(或理解、办事)能力; 职位; 职责;
+
+vulnerability
+英[ˌvʌlnərə'bɪlətɪ]
+美[ˌvʌlnərə'bɪləti]
+n.	弱点; 脆弱性; 易伤性; 可捕性;
+
+
+invalidate
+英[ɪnˈvælɪdeɪt]
+美[ɪnˈvælɪdeɪt]
+v.	证明…错误; 使站不住脚; 使无效; 使作废;
+
+arbitrary	英[ˈɑːbɪtrəri]
+美[ˈɑːrbɪtreri]
+adj.	任意的; 武断的; 随心所欲的; 专横的; 专制的;
+
+
+indicator
+英[ˈɪndɪkeɪtə(r)]
+美[ˈɪndɪkeɪtər]
+n.	指示信号; 标志; 迹象; 指示器; 指针; 转向灯; 方向灯;
+
+
+assignment	英[əˈsaɪnmənt]
+美[əˈsaɪnmənt]
+n.	(分派的) 工作，任务; (工作等的) 分派，布置;
+
+tedious_百度翻译
+tedious	英[ˈtiːdiəs]
+美[ˈtiːdiəs]
+adj.	冗长的; 啰唆的; 单调乏味的; 令人厌烦的;
+
+ceremony	英[ˈserəməni]
+美[ˈserəmoʊni]
+n.	典礼; 仪式; 礼节; 礼仪; 客套;
 
 
