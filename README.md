@@ -882,4 +882,34 @@ truncate	英[trʌŋˈkeɪt]
 v.	截短，缩短，删节(尤指掐头或去尾);
 
 
+construct
+英[kənˈstrʌkt , ˈkɒnstrʌkt]
+美[kənˈstrʌkt , ˈkɑːnstrʌkt]
+v.	建筑; 修建; 建造; 组成; 创建; (按照数学规则) 编制，绘制;
+
+instance	英[ˈɪnstəns]
+美[ˈɪnstəns]
+n.	例子; 事例; 实例;
+v.	举…为例;
+
+
+implicitly	英[ɪmˈplɪsɪtli]
+美[ɪmˈplɪsətli]
+adv.	暗中地；不明显地；含蓄地；蕴涵地; 无疑问地；无保留地；绝对地;
+
+
+verbose	英[vɜːˈbəʊs]
+美[vɜːrˈboʊs]
+adj.	冗长的; 啰唆的; 唠叨的;
+
+redundant	英[rɪˈdʌndənt]
+美[rɪˈdʌndənt]
+adj.	被裁减的; 多余的; 不需要的;
+
+evident	英[ˈevɪdənt]
+美[ˈevɪdənt]
+adj.	清楚的; 显而易见的; 显然的;
+
+
+
 
