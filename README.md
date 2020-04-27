@@ -803,3 +803,83 @@ ceremony	英[ˈserəməni]
 n.	典礼; 仪式; 礼节; 礼仪; 客套;
 
 
+
+diagram	英[ˈdaɪəɡræm]
+美[ˈdaɪəɡræm]
+n.	简图; 图解; 图表; 示意图;
+vt.	用图表示; 图解;
+ampersand	英[ˈæmpəsænd]
+美[ˈæmpərsænd]
+n.	* &(表示and的符号);
+
+
+restriction	英[rɪˈstrɪkʃn]
+美[rɪˈstrɪkʃn]
+n.	限制规定; 限制法规; 限制; 约束; 制约因素;
+
+diagnose	英[ˈdaɪəɡnəʊz]
+美[ˌdaɪəɡˈnoʊs]
+v.	诊断(疾病); 判断(问题的原因);
+
+
+simultaneous
+英[ˌsɪmlˈteɪniəs]
+美[ˌsaɪmlˈteɪniəs]
+adj.	同时发生(或进行)的; 同步的;
+
+overlap
+英[ˌəʊvəˈlæp , ˈəʊvəlæp]
+美[ˌoʊvərˈlæp , ˈoʊvərlæp]
+v.	(物体) 部分重叠，交叠; 使部分重叠; (时间上) 部分重叠;
+
+frustrating
+英[frʌˈstreɪtɪŋ]
+美[ˈfrʌstreɪtɪŋ]
+adj.	令人懊恼的; 令人沮丧的;
+v.	使懊丧; 使懊恼; 使沮丧; 阻止; 防止; 挫败;
+
+deallocated	
+网络	解除配置;
+
+
+recap	英[ˈriːkæp]
+美[ˈriːkæp]
+v.	概括; 扼要重述; 简要回顾;
+n.	胎面翻新的轮胎; 重述要点; <新闻>简明新闻;
+
+
+contiguous
+英[kənˈtɪɡjuəs]
+美[kənˈtɪɡjuəs]
+adj.	相接的; 相邻的;
+
+
+wrap	英[ræp]
+美[ræp]
+v.	包，裹(礼物等); 用…包裹(或包扎、覆盖等); 用…缠绕(或围紧);
+
+
+extract
+英[ˈekstrækt , ɪkˈstrækt]
+美[ˈekstrækt , ɪkˈstrækt]
+n.	摘录; 选录; 选曲; 节录; 提取物; 浓缩物; 精; 汁;
+v.	提取; 提炼; 索取，设法得到(对方不愿提供的信息、钱财等); 选取; 摘录; 选录;
+
+
+brittle	英[ˈbrɪtl]
+美[ˈbrɪtl]
+adj.	硬但易碎的; 脆性的; 脆弱的; 尖利的; 刺耳的;
+
+
+trail	英[treɪl]
+美[treɪl]
+n.	(长串的) 痕迹，踪迹，足迹; (尤指打猎时跟踪的) 踪迹，臭迹; (乡间的) 小路，小径;
+v.	(被) 拖，拉; (尤指跟在他人后面) 疲惫地走，没精打采地慢走，磨蹭; (在比赛或其他竞赛中) 落后，失利，失败;
+
+
+truncate	英[trʌŋˈkeɪt]
+美[ˈtrʌŋkeɪt]
+v.	截短，缩短，删节(尤指掐头或去尾);
+
+
+
