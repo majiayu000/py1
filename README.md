@@ -910,6 +910,40 @@ evident	英[ˈevɪdənt]
 美[ˈevɪdənt]
 adj.	清楚的; 显而易见的; 显然的;
 
+dimension_百度翻译
+dimension	英[daɪˈmenʃn]
+美[daɪˈmenʃn]
+n.	维(构成空间的因素); 尺寸; 规模; 程度; 范围; 方面; 侧面;
 
+
+rectangle	英[ˈrektæŋɡl]
+美[ˈrektæŋɡl]
+n.	长方形; 矩形;
+
+
+clarity	英[ˈklærəti]
+美[ˈklærəti]
+n.	清晰; 清楚; 明确; 清晰的思维(或理解)能力; (画面、物质或声音的) 清晰，清澈;
+
+
+consumption	英[kənˈsʌmpʃn]
+美[kənˈsʌmpʃn]
+n.	(能量、食物或材料的) 消耗，消耗量; 消费; 肺病; 肺痨; 肺结核;
+
+
+format	英[ˈfɔːmæt]
+美[ˈfɔːrmæt]
+n.	总体安排; 计划; 设计; (出版物的) 版式，开本; 格式;
+v.	格式化; 安排…的版式;
+
+wondrous	英[ˈwʌndrəs]
+美[ˈwʌndrəs]
+adj.	奇异的; 美好的; 了不起的;
+
+
+obliterate
+英[əˈblɪtəreɪt]
+美[əˈblɪtəreɪt]
+v.	毁掉; 覆盖; 清除;
 
 
