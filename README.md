@@ -1003,3 +1003,15 @@ deliberate
 adj.	故意的; 蓄意的; 存心的; 不慌不忙的; 小心翼翼的; 从容不迫的;
 v.	仔细考虑; 深思熟虑; 反复思考;
 
+
+typo	英[ˈtaɪpəʊ]
+美[ˈtaɪpoʊ]
+n.	打字(或排印)文稿的小错误;
+
+variant	英[ˈveəriənt]
+美[ˈveriənt]
+n.	变种; 变体; 变形;
+
+demonstrate	英[ˈdemənstreɪt]
+美[ˈdemənstreɪt]
+v.	证明; 证实; 论证; 说明; 表达; 表露; 表现; 显露; 示范; 演示;
