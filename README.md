@@ -1015,3 +1015,109 @@ n.	变种; 变体; 变形;
 demonstrate	英[ˈdemənstreɪt]
 美[ˈdemənstreɪt]
 v.	证明; 证实; 论证; 说明; 表达; 表露; 表现; 显露; 示范; 演示;
+
+assumption	英[əˈsʌmpʃn]
+美[əˈsʌmpʃn]
+n.	假定; 假设; (责任的) 承担; 担任; (权力的) 获得;
+
+invariant	英[ɪnˈveəriənt]
+美[ɪnˈveriənt]
+adj.	不变的; 恒定的;
+
+
+occasionally
+英[əˈkeɪʒnəli]
+美[əˈkeɪʒnəli]
+adv.	偶然; 偶尔; 有时候;
+
+
+appropriate
+英[əˈprəʊpriət , əˈprəʊprieɪt]
+美[əˈproʊpriət , əˈproʊprieɪt]
+adj.	合适的; 恰当的;
+v.	盗用; 挪用; 占用; 侵吞; 拨(专款等);
+
+out-of-bounds
+英[aʊt ɒv baʊndz]
+美[aʊt əv baʊndz]
+[词典]	出界;
+
+
+contract
+英[ˈkɒntrækt , kənˈtrækt]
+美[ˈkɑːntrækt , kənˈtrækt]
+n.	合同; 合约; 契约; (雇用杀人的) 协议;
+
+violation
+英[ˌvaɪə'leɪʃ(ə)n]
+美[ˌvaɪə'leɪʃ(ə)n]
+n.	违反，违法，违章，越轨，触犯法令; 侵犯；破坏; 违例，犯规;
+
+
+verbose	英[vɜːˈbəʊs]
+美[vɜːrˈboʊs]
+adj.	冗长的; 啰唆的; 唠叨的;
+
+validation
+英[ˌvælɪˈdeɪʃən]
+美[ˌvæləˈdeɪʃən]
+n.	生效；批准；验证；确认；证实；核实;
+
+
+dire	英[ˈdaɪə(r)]
+美[ˈdaɪər]
+adj.	极其严重的; 危急的; 极糟的; 极差的;
+
+
+inevitable	英[ɪnˈevɪtəbl]
+美[ɪnˈevɪtəbl]
+adj.	不可避免的; 不能防止的; 总会发生的; 照例必有的; 惯常的; 必然发生的事; 不可避免的事;
+
+
+duplication
+英[ˌdjuːplɪˈkeɪʃn]
+美[ˌduːplɪˈkeɪʃn]
+n.	(不必要的) 重复;
+
+abstract
+英[ˈæbstrækt , æbˈstrækt]
+美[ˈæbstrækt , æbˈstrækt]
+adj.	抽象的(与个别情况相对); 纯理论的; 抽象的(与具体经验相对); 抽象(派)的;
+n.	抽象派艺术作品; (文献等的) 摘要，概要;
+v.	把…抽象出; 提取; 抽取; 分离; 写出(书等的)摘要;
+
+concrete	英[ˈkɒŋkriːt]
+美[ˈkɑːŋkriːt]
+adj.	混凝土制的; 确实的，具体的(而非想象或猜测的); 有形的; 实在的;
+n.	混凝土;
+v.	用混凝土覆盖;
+
+
+stand-in	英[ˈstænd ɪn]
+美[ˈstænd ɪn]
+n.	代行职务者; (尤指影视中危险动作的) 替身演员;
+
+
+extract
+英[ˈekstrækt , ɪkˈstrækt]
+美[ˈekstrækt , ɪkˈstrækt]
+n.	摘录; 选录; 选曲; 节录; 提取物; 浓缩物; 精; 汁;
+v.	提取; 提炼; 索取，设法得到(对方不愿提供的信息、钱财等); 选取; 摘录; 选录;
+
+
+abstractly	
+网络	抽象地; 抽象; 抽象的; 抽象化;
+
+
+specify	英[ˈspesɪfaɪ]
+美[ˈspesɪfaɪ]
+v.	具体说明; 明确规定; 详述; 详列;
+
+coordinate
+英[kəʊˈɔːdɪneɪt , kəʊˈɔːdɪnət]
+美[koʊˈɔːrdɪneɪt , koʊˈɔːrdɪnət]
+v.	使协调; 使相配合; 使(身体各部分)动作协调; 协同动作; (衣服、家具等) 搭配，协调;
+n.	坐标; (颜色协调的) 配套服装，套装;
+
+
+
