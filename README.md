@@ -1397,3 +1397,63 @@ clue	英[kluː]
 n.	(帮助警方破案的) 线索，迹象; (问题答案的) 线索，提示; (纵横填字谜、游戏或问题的) 提示词语，解答提示;
 v.	为…提供线索; 提示;
 
+
+ascend	英[əˈsend]
+美[əˈsend]
+v.	上升; 升高; 登高;
+
+preced	
+abbr.	preceding 在前的;
+
+merely	英[ˈmɪəli]
+美[ˈmɪrli]
+adv.	仅仅; 只不过;
+
+
+implication
+英[ˌɪmplɪˈkeɪʃn]
+美[ˌɪmplɪˈkeɪʃn]
+n.	可能的影响(或作用、结果); 含意; 暗指; (被) 牵连，牵涉;
+
+
+material	英[məˈtɪəriəl]
+美[məˈtɪriəl]
+n.	布料; 材料; 原料; (某一活动所需的) 材料;
+adj.	实际的(非精神需求的); 物质的; 客观存在的; 重要的; 必要的;
+
+
+entail	英[ɪnˈteɪl]
+美[ɪnˈteɪl]
+v.	牵涉; 需要; 使必要;
+
+
+namely	英[ˈneɪmli]
+美[ˈneɪmli]
+adv.	即; 也就是;
+
+arithmetic
+英[əˈrɪθmətɪk]
+美[əˈrɪθmətɪk]
+n.	算术; 算术运算; 四则运算;
+
+
+vice versa
+英[ˌvaɪs ˈvɜːsə]
+美[ˌvaɪs ˈvɜːrsə]
+adv.	反过来也一样; 反之亦然;
+
+correspond
+英[ˌkɒrəˈspɒnd]
+美[ˌkɔːrəˈspɑːnd]
+v.	相一致; 符合; 类似于; 相当于; 通信;
+
+isometric
+英[ˌaɪsəˈmetrɪk]
+美[ˌaɪsəˈmetrɪk]
+adj.	提高肌张力的，静力锻炼的(指肌肉工作但整个身体不动); (图画) 无透视三维的; 等距的;
+
+curriculum
+英[kəˈrɪkjələm]
+美[kəˈrɪkjələm]
+n.	(学校等的) 全部课程;
+
