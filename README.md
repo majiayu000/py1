@@ -1499,3 +1499,30 @@ preserve	英[prɪˈzɜːv]
 v.	保护; 维护; 保留; 维持…的原状; 保存; 保养; 贮存; 保鲜;
 n.	(某人或群体活动、工作等的) 专门领域; 果酱; 腌菜; 泡菜;
 
+coordinate
+英[kəʊˈɔːdɪneɪt , kəʊˈɔːdɪnət]
+美[koʊˈɔːrdɪneɪt , koʊˈɔːrdɪnət]
+v.	使协调; 使相配合; 使(身体各部分)动作协调; 协同动作; (衣服、家具等) 搭配，协调;
+n.	坐标; (颜色协调的) 配套服装，套装;
+
+
+vertex	英[ˈvɜːteks]
+美[ˈvɜːrteks]
+n.	(三角形或锥形的) 角顶; 顶点; 至高点;
+
+
+supervise	英[ˈsuːpəvaɪz]
+美[ˈsuːpərvaɪz]
+v.	监督; 管理; 指导; 主管;
+
+reinforcement
+英[ˌriːɪnˈfɔːsmənt]
+美[ˌriːɪnˈfɔːrsmənt]
+n.	援军; 增援警力; (感情或思想等的) 巩固，加强，强化;
+
+
+prerequisites
+英[ˌpriːˈrɛkwɪzɪts]
+美[priˈrɛkwəzəts]
+n.	先决条件; 前提; 必备条件;
+
