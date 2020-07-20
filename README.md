@@ -1457,3 +1457,45 @@ curriculum
 美[kəˈrɪkjələm]
 n.	(学校等的) 全部课程;
 
+
+notation	英[nəʊˈteɪʃn]
+美[noʊˈteɪʃn]
+n.	(数学、科学和音乐中的) 符号，记号，谱号;
+
+
+realm	英[relm]
+美[relm]
+n.	领域; 场所; 王国;
+
+
+denote	英[dɪˈnəʊt]
+美[dɪˈnoʊt]
+v.	标志; 预示; 象征; 表示; 意指;
+
+
+concatenation
+英[kənˌkætəˈneɪʃn]
+美[kənˌkætəˈneɪʃn]
+n.	一系列相关联的事物(或事件);
+
+
+finite	英[ˈfaɪnaɪt]
+美[ˈfaɪnaɪt]
+adj.	有限的; 有限制的; 限定的;
+
+
+omit	英[əˈmɪt]
+美[əˈmɪt]
+v.	删除; 忽略; 漏掉; 遗漏; 不做; 未能做;
+
+substitution
+英[ˌsʌbstɪ'tjuːʃ(ə)n]
+美[ˌsʌbstɪ'tuʃ(ə)n]
+n.	置换; 取代; 代换; 代入;
+
+
+preserve	英[prɪˈzɜːv]
+美[prɪˈzɜːrv]
+v.	保护; 维护; 保留; 维持…的原状; 保存; 保养; 贮存; 保鲜;
+n.	(某人或群体活动、工作等的) 专门领域; 果酱; 腌菜; 泡菜;
+
