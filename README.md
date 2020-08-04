@@ -1526,3 +1526,7 @@ prerequisites
 美[priˈrɛkwəzəts]
 n.	先决条件; 前提; 必备条件;
 
+resurrect	英[ˌrezəˈrekt]
+美[ˌrezəˈrekt]
+v.	重新应用; 恢复使用; 使复兴; 起死回生; 使复活;
+
