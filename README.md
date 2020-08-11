@@ -1578,3 +1578,73 @@ n.	(某人或群体活动、工作等的) 专门领域; 果酱; 腌菜; 泡菜;
 inheritance	英[ɪnˈherɪtəns]
 美[ɪnˈherɪtəns]
 n.	继承物(如金钱、财产等); 遗产继承; 遗传特征; 遗产;
+
+
+essence	英[ˈesns]
+美[ˈesns]
+n.	本质; 实质; 精髓; 香精; 精油;
+
+
+derive	英[dɪˈraɪv]
+美[dɪˈraɪv]
+v.	获得; 取得; 得到; (使) 起源; (使) 产生;
+
+
+opinionated
+英[əˈpɪnjəneɪtɪd]
+美[əˈpɪnjəneɪtɪd]
+adj.	固执己见的; 顽固的;
+
+sufficient	英[səˈfɪʃnt]
+美[səˈfɪʃnt]
+adj.	足够的; 充足的;
+
+enforce	英[ɪnˈfɔːs]
+美[ɪnˈfɔːrs]
+v.	强制执行，强行实施(法律或规定); 强迫; 迫使;
+
+elaborate
+英[ɪˈlæbərət , ɪˈlæbəreɪt]
+美[ɪˈlæbərət , ɪˈlæbəreɪt]
+adj.	复杂的; 详尽的; 精心制作的;
+v.	详尽阐述; 详细描述; 详细制订; 精心制作;
+
+parrot	英[ˈpærət]
+美[ˈpærət]
+n.	鹦鹉;
+v.	鹦鹉学舌地说…;
+
+consensus	英[kənˈsensəs]
+美[kənˈsensəs]
+n.	一致的意见; 共识;
+
+
+rationalization
+英[ˌræʃ(ə)nəlaɪ'zeɪʃ(ə)n]
+美[ˌræʃ(ə)nəlaɪ'zeɪʃ(ə)n]
+n.	(尤指事业等的) 合理化; 有理化; 文饰(作用); 理论解释;
+
+cryptographic	
+adj.	密码的；暗号的；隐晶构造的;
+
+
+nasty	英[ˈnɑːsti]
+美[ˈnæsti]
+adj.	极差的; 令人厌恶的; 令人不悦的; 不友好的; 恶意的; 令人不愉快的; 危险的; 严重的;
+n.	令人不愉快的事物;
+
+
+adequately	
+adv.	充分地；足够地；适当地;
+
+
+populate	英[ˈpɒpjuleɪt]
+美[ˈpɑːpjuleɪt]
+v.	居住于; 生活于; 构成…的人口; 迁移; 移居; 殖民于; (给文件) 增添数据，输入数据;
+
+
+appropriate
+英[əˈprəʊpriət , əˈprəʊprieɪt]
+美[əˈproʊpriət , əˈproʊprieɪt]
+adj.	合适的; 恰当的;
+v.	盗用; 挪用; 占用; 侵吞; 拨(专款等);
