@@ -1648,3 +1648,9 @@ appropriate
 美[əˈproʊpriət , əˈproʊprieɪt]
 adj.	合适的; 恰当的;
 v.	盗用; 挪用; 占用; 侵吞; 拨(专款等);
+
+asterisk	英[ˈæstərɪsk]
+美[ˈæstərɪsk]
+n.	星号(置于词语旁以引起注意或另有注释);
+v.	加星号于;
+
