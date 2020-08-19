@@ -1658,3 +1658,30 @@ v.	加星号于;
 erase	英[ɪˈreɪz]
 美[ɪˈreɪs]
 v.	清除; 消除; 消灭; 擦掉，抹掉(笔迹等); 抹去，清洗(磁带上的录音或存储器中的信息);
+
+
+intercept	英[ˌɪntəˈsept]
+美[ˌɪntərˈsept]
+v.	拦截; 拦阻; 截住;
+n.	（数学） 截距; 截击; 拦截; 截听; 拦截者;
+
+
+self-explanatory
+英[ˌself ɪkˈsplænətri]
+美[ˌself ɪkˈsplænətɔːri]
+adj.	无须解释的; 明白易晓的; 一目了然的;
+
+
+malicious	英[məˈlɪʃəs]
+美[məˈlɪʃəs]
+adj.	怀有恶意的; 恶毒的;
+
+
+identical	英[aɪˈdentɪkl]
+美[aɪˈdentɪkl]
+adj.	完全同样的; 相同的; 同一的;
+
+delegation
+英[ˌdelɪˈɡeɪʃn]
+美[ˌdelɪˈɡeɪʃn]
+n.	代表团; 委托; 委派;
