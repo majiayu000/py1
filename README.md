@@ -1731,3 +1731,50 @@ asterisk	英[ˈæstərɪsk]
 美[ˈæstərɪsk]
 n.	星号(置于词语旁以引起注意或另有注释);
 v.	加星号于;
+
+
+surgically	
+adv.	外科手术上; 如外科手术般地;
+
+
+collide	英[kəˈlaɪd]
+美[kəˈlaɪd]
+v.	碰撞; 相撞; 严重不一致; 冲突; 抵触
+
+vague	英[veɪɡ]
+美[veɪɡ]
+adj.	(思想上) 不清楚的，含糊的，不明确的，模糊的; 不具体的; 不详细的; 粗略的; 茫然的; 糊涂的; 心不在焉的;
+
+
+malicious	英[məˈlɪʃəs]
+美[məˈlɪʃəs]
+adj.	怀有恶意的; 恶毒的;
+
+infiltrate	英[ˈɪnfɪltreɪt]
+美[ˈɪnfɪltreɪt]
+v.	(使) 悄悄进入，潜入; 渗入; 渗透;
+n.	渗透物;
+
+
+mechanism	英[ˈmekənɪzəm]
+美[ˈmekənɪzəm]
+n.	机械装置; 机件; 方法; 机制; (生物体内的) 机制，构造
+
+interfere
+英[ˌɪntəˈfɪə(r)]
+美[ˌɪntərˈfɪr]
+v.	干涉; 干预; 介入;
+
+monitored	英[ˈmɒnɪtəd]
+美[ˈmɑːnɪtərd]
+v.	监视; 检查; 跟踪调查; 监听(电话、外国无线电广播等);
+
+robust	英[rəʊˈbʌst]
+美[roʊˈbʌst]
+adj.	强健的; 强壮的; 结实的; 耐用的; 坚固的; 强劲的; 富有活力的;
+
+
+proactive
+英[ˌprəʊˈæktɪv]
+美[ˌproʊˈæktɪv]
+adj.	积极主动的; 主动出击的; 先发制人的;
