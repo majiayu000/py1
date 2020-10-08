@@ -1836,3 +1836,8 @@ substantial	英[səbˈstænʃl]
 adj.	大量的; 价值巨大的; 重大的; 大而坚固的; 结实的; 牢固的;
 n.	本质; 重要材料;
 
+recursive	英[rɪˈkɜːsɪv]
+美[rɪˈkɜːrsɪv]
+adj.	递归的; 循环的;
+
+
